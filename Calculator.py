@@ -24,4 +24,4 @@ elif operator == '/':
     temp = div(num1,num2)
     print (temp)
 else:
-    print ("it is not a valid option Altered1")
+    print ("it is not a valid option Altered and branch cal-divide")
